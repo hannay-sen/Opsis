@@ -2,7 +2,7 @@
 
 **Opsis (Greek for "sight") finds furniture by how it looks.** Upload a photo or describe a piece, and it returns visually similar items.
 
-![Opsis]{opsis.png)
+![Opsis](opsis.png)
 
 <!-- Live demo: add your Hugging Face link here after deploying -->
 
