@@ -73,10 +73,6 @@ pytest -q
 ```
 The tests use a small stand-in for CLIP, so they run in under a second without downloading the model. They cover indexing (including skipping broken files), search, evaluation, and every API endpoint. GitHub Actions runs them on every push.
 
-## How I used AI tools
-
-<!-- Write this yourself, honestly: what you asked an AI assistant for, what you changed, what you had to fix or verify, and what you learned. -->
-
 ## Next steps
 
 - Crop the main object out of a room photo before searching, to fix table/chair mix-ups
